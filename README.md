@@ -1136,6 +1136,8 @@ search, and comprehensive file analysis.
 - **[Nikto MCP](https://github.com/weldpua2008/nikto-mcp)** (by weldpua2008) - A secure MCP server that enables AI agents to interact with Nikto web server scanner](- use with npx or docker).
 - **[NocoDB](https://github.com/edwinbernadus/nocodb-mcp-server)** - Read and write access to NocoDB database.
 - **[Node Code Sandbox](https://github.com/alfonsograziano/node-code-sandbox-mcp)** – A Node.js MCP server that spins up isolated Docker - based sandboxes for executing JavaScript snippets with on-the-fly npm dependency installation
+- **[nodehero](https://github.com/dinosaur24/zapguard/tree/main/mcp-server)** — AI-powered workflow error analysis for n8n, Make, Zapier, Power Automate, and 10+ automation platforms. Paste any error, get root cause and ranked fixes.
+
 - **[nomad-mcp](https://github.com/kocierik/mcp-nomad)** - A server that provides a set of tools for managing Nomad clusters through the MCP.
 - **[Notion](https://github.com/suekou/mcp-notion-server)** (by suekou) - Interact with Notion API.
 - **[Notion](https://github.com/v-3/notion-server)** (by v-3) - Notion MCP integration. Search, Read, Update, and Create pages through Claude chat.
